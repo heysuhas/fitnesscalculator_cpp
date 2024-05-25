@@ -1,0 +1,1 @@
+provides a simple fitness calculator app. It calculates Body Mass Index (BMI), Basal Metabolic Rate (BMR), and suggests daily calorie intake and exercises based on user inputs such as weight, height, age, gender, and activity level.
